@@ -37,7 +37,7 @@ Este prototipo movera la cabeza, orejas y boja cada vez que detecte movimiento s
 https://wokwi.com/projects/410136960294696961
 
 ## Videos
-Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+https://drive.google.com/drive/folders/1Xngk3wHjYkb0_5jHd3Hv1n_hxIWVAqZy?usp=sharing
 
 ## Capturas de Evaluaciones de Curso de C
 <img src="https://github.com/user-attachments/assets/939c7f96-c41d-4e7c-8e08-5a74ff2e3900" wigth=100/>
