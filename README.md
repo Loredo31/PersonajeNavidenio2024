@@ -29,7 +29,9 @@ Este prototipo movera la cabeza, orejas y boja cada vez que detecte movimiento s
 |Arduino IDE|2.3.2|
 
 ## Dibujo del personaje
-Imagen hecha a mano o con software
+
+<img src="https://github.com/user-attachments/assets/7a74b547-365a-4f64-95f9-228e6864f8cf" wigth=100/>
+
 
 ## Enlaces de la simulación de wokwi
 https://wokwi.com/projects/410136960294696961
@@ -38,4 +40,18 @@ https://wokwi.com/projects/410136960294696961
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 
 ## Capturas de Evaluaciones de Curso de C
-Capturas de pantalla de sus resultados de evaluaciones del curso de C.# PersonajeNavidenio2024
+<img src="https://github.com/user-attachments/assets/939c7f96-c41d-4e7c-8e08-5a74ff2e3900" wigth=100/>
+<img src="https://github.com/user-attachments/assets/989dbfe9-8271-4667-8a7b-29f2ef26a3a7" witgh=100/>
+<img src="https://github.com/user-attachments/assets/a2ac85e2-7c27-4a74-9df2-bbfebb35b6ec" width=100/>
+<img src="https://github.com/user-attachments/assets/dfc11417-ee68-4991-ae92-bb0bc2e19138" width=100/>
+<img src="https://github.com/user-attachments/assets/bd549d71-4619-4abc-88e3-604b6a7d0e20" width=100/>
+<img src="https://github.com/user-attachments/assets/552e73ce-a575-49f1-ab40-e2aa1339f92b" width=100/>
+
+
+
+
+
+
+
+
+
